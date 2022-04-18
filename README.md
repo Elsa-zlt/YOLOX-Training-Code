@@ -1,8 +1,8 @@
-## 中文试验数据：
+## 实验数据（中文）：
 链接：https://pan.baidu.com/s/1q5LQ5ucVjmF8WzflEm8Eqw
 提取码：w0r0
 
-## 英文试验数据：
+## Experimental Data (English) :
 Links: https://pan.baidu.com/s/18BbzImL5LdqWCLXc5V_05w
 Extract the code: acpg
 
