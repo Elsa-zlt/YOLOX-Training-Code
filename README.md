@@ -6,6 +6,10 @@
 Links: https://pan.baidu.com/s/18BbzImL5LdqWCLXc5V_05w
 Extract the code: acpg
 
+## 调通代码过程：
+https://blog.csdn.net/ELSA001/article/details/120918082?spm=1001.2014.3001.5502
+https://blog.csdn.net/ELSA001/article/details/121032193?spm=1001.2014.3001.5502
+
 ## Introduction
 YOLOX is an anchor-free version of YOLO, with a simpler design but better performance! It aims to bridge the gap between research and industrial communities.
 For more details, please refer to our [report on Arxiv](https://arxiv.org/abs/2107.08430).
